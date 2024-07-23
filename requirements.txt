@@ -1,0 +1,18 @@
+# Keras for loading MNIST and CIFAR-10 datasets
+keras
+
+# Gym for the custom environments
+gym
+
+# NumPy for numerical computations
+numpy
+
+# Matplotlib for plotting
+matplotlib
+
+# PyTorch for neural networks and training
+torch
+
+# Additional dependencies for specific modules and functionality
+argparse
+sys
